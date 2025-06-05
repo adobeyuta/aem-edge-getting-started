@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--aem-edge-getting-started--adobeyuta.hlx.page/
-- Live: https://main--aem-edge-getting-started--adobeyuta.hlx.page/
+- Live: https://main--aem-edge-getting-started--adobeyuta.hlx.live/
 
 ## Installation
 
